@@ -5,6 +5,7 @@ Olá. Meu nome é Rich Elton.
 
 Sei programar na linguagem Python(intermediário), logo vou adicionar meus projetos aqui.
 Sei programar na linguagem Java(intermediário), com a IDE NetBeans, e fazer interfaces usando o Swing.
+Sei HTML eu tenho alguns projetos básicos, que está aqui.
 Estou estudando C#, e vou me aprofundar em desenvolvimento móvel usando o Xamarin(E por isso não estou desenvolvendo projetos nas outras linguagens).
 
 -------------------------------------Cursos e Certificados-------------------------------------------------
