@@ -7,7 +7,7 @@ Sei programar na linguagem Python(intermediário), logo vou adicionar meus proje
 Sei programar na linguagem Java(intermediário), com a IDE NetBeans, e fazer interfaces usando o Swing.
 Estou estudando C#, e vou me aprofundar em desenvolvimento móvel usando o Xamarin.
 
--------------------------------------------------------------------------------
+----------------------Cursos e Certificados-------------------------------------
 
 Curso de Python do Solyd(Onde aprender o uso de API's)
 Curso de Introdução a Python do MVA(Microsoft Virtual Academy).
