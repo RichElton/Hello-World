@@ -9,7 +9,7 @@ Sei programas em C# e estou me aprofundar em desenvolvimento móvel usando o Xam
 
 -------------------------------------Cursos e Certificados-------------------------------------------------
 
-1 - Maratona Xamarin Iniciante da Microsoft(Já fiz alguns Apps e colocaria todos aqui) /n
+1 - Maratona Xamarin Iniciante da Microsoft(Já fiz alguns Apps e colocaria todos aqui) \n
 2 - Curso de Python do Solyd(Onde aprendi o uso de API's)
 3 - Curso de Introdução a Python do MVA(Microsoft Virtual Academy).
 4 - Curso de Java do Curso em Vídeo.
