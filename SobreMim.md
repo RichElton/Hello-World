@@ -4,8 +4,10 @@ Olá. Meu nome é Rich Elton.
 ------------------------------------------Linguagens------------------------------------------------------
 
 Sei programar na linguagem Python, logo vou adicionar meus projetos aqui.
-Sei programar na linguagem Java, com a IDE NetBeans, e fazer interfaces usando o Swing.
+
 Sei programas em C# e estou me aprofundar em desenvolvimento móvel usando o Xamarin.
+
+Sei programar na linguagem Java, com a IDE NetBeans, e fazer interfaces usando o Swing.
 
 -------------------------------------Cursos e Certificados-------------------------------------------------
 
