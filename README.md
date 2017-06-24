@@ -11,6 +11,8 @@ Sei programas em C# e estou me aprofundar em desenvolvimento móvel usando o Xam
 
 Sei programar na linguagem Java, com a IDE NetBeans, e fazer interfaces usando o Swing.
 
+Sei programar na linguagem PHP básico(forms, autentificação).
+
 -------------------------------------Cursos e Certificados-------------------------------------------------
 
 1 - Maratona Xamarin Iniciante da Microsoft(Já fiz alguns Apps e colocaria todos aqui)
@@ -22,5 +24,7 @@ Sei programar na linguagem Java, com a IDE NetBeans, e fazer interfaces usando o
 4 - Curso de Java do Curso em Vídeo.
 
 5 - Curso de POO com Java do Curso em Vídeo.
+
+6 - Maratona PHP da Softblue.
 
 Vou começar o curso de Ciência da Computação este ano(2017.1).
