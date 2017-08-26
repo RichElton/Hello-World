@@ -15,7 +15,7 @@ Sei programar na linguagem PHP básico(forms, autentificação).
 
 -------------------------------------Cursos e Certificados-------------------------------------------------
 
-1 - Maratona Xamarin Iniciante da Microsoft(Já fiz alguns Apps e colocaria todos aqui)
+1 - Maratona Xamarin Iniciante da Microsoft(Já fiz alguns Apps)
 
 2 - Curso de Python do Solyd(Onde aprendi o uso de API's)
 
@@ -27,4 +27,4 @@ Sei programar na linguagem PHP básico(forms, autentificação).
 
 6 - Maratona PHP da Softblue.
 
-Vou começar o curso de Ciência da Computação este ano(2017.1).
+Vou começar o curso de Ciência da Computação na UFCG-campus de Campina Grande este ano(2017.2).
