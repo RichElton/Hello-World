@@ -4,6 +4,7 @@
     <p> Olá. Meu nome é Rich Elton. </p>
     <p> E-mail: richelton14@gmail.com </p>
     <p> Linkedin: https://www.linkedin.com/in/rich-elton-carvalho-ramalho-0b4665b2/ </p>
+    <p> Perfil no URI: https://www.urionlinejudge.com.br/judge/pt/profile/239465 </p>
 
   <h1> ------- Linguagens ------- </h1>
       <ul>
