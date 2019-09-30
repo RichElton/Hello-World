@@ -2,7 +2,7 @@
 > Olá. Meu nome é Rich Elton
 
 - [E-mail](richelton14@gmail.com)
-- [Linkedin](https://www.linkedin.com/in/rich-elton-carvalho-ramalho-0b4665b2/)
+- [Linkedin](https://www.linkedin.com/in/rich-ramalho/)
 
 ## Linguagens
 
